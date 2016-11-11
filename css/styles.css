@@ -1,0 +1,15 @@
+section{
+	width:60%;
+	float:left;
+}
+
+aside{
+
+	width:40%;
+	float: right;
+}
+
+main{
+
+	min-height: 150px;
+}
